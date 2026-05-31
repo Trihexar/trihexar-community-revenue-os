@@ -3,9 +3,9 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="Trihexar Community is an open-source community layer for builders, operators, and contributors exploring Web3 growth, analytics, and revenue infrastructure." />
+  <meta name="description" content="Trihexar Community is an open-source Web3 Community Revenue OS for builders, community operators, and founders." />
   <meta name="theme-color" content="#11233a" />
-  <title>Trihexar Community — Open-source Web3 Community Layer</title>
+  <title>Trihexar Community — Web3 Community Revenue OS</title>
   <link rel="icon" type="image/svg+xml" href="assets/TrihexarLogo.svg" />
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -32,11 +32,11 @@
       <div class="nav-menu" id="nav-menu" data-nav-menu>
         <a href="#platform">Platform</a>
         <a href="#modules">Modules</a>
-        <a href="#calculator">Planning Lab</a>
+        <a href="#calculator">Revenue Lab</a>
         <a href="#roadmap">Roadmap</a>
         <a href="#contribute">Contribute</a>
         <button class="theme-toggle" type="button" data-theme-toggle aria-label="Toggle theme">◐</button>
-        <a class="btn btn-small" href="#get-started">Start Contributing</a>
+        <a class="btn btn-small" href="#get-started">Start Building</a>
       </div>
     </nav>
   </header>
@@ -45,31 +45,31 @@
     <section class="hero section-xl">
       <div class="container hero-grid">
         <div class="hero-copy reveal">
-          <p class="eyebrow">Open-source Web3 Community Layer</p>
-          <h1>Help Web3 communities become more organized, measurable, and revenue-aware.</h1>
+          <p class="eyebrow">Open-source Web3 Community Revenue OS</p>
+          <h1>Turn a Web3 community into a disciplined revenue machine.</h1>
           <p class="hero-subtitle">
-            Trihexar Community is a public open-source starter for community builders who want clear positioning, contribution flows, operational docs, and dashboard concepts.
+            Trihexar Community is a clean starter interface for community builders who need a public landing page, revenue narrative, contribution system, and operational dashboard concept.
           </p>
           <div class="hero-actions">
-            <a class="btn" href="#get-started">Explore Community</a>
+            <a class="btn" href="#get-started">Explore Project</a>
             <a class="btn btn-ghost" href="#modules">View Modules</a>
           </div>
           <div class="trust-row" aria-label="Project principles">
             <span>Open source</span>
-            <span>Revenue-aware</span>
-            <span>Community-driven</span>
+            <span>Revenue-first</span>
+            <span>Community-owned</span>
           </div>
         </div>
 
-        <aside class="hero-panel reveal delay-1" aria-label="Trihexar community dashboard preview">
+        <aside class="hero-panel reveal delay-1" aria-label="Trihexar operating dashboard preview">
           <div class="orb orb-one"></div>
           <div class="orb orb-two"></div>
           <div class="dashboard-card glass">
             <div class="dashboard-head">
               <img src="assets/TrihexarLogo.svg" alt="" class="dashboard-logo" aria-hidden="true" />
               <div>
-                <strong>Sample Community Pulse</strong>
-                <span>Demo metrics preview</span>
+                <strong>Revenue Pulse</strong>
+                <span>Community OS preview</span>
               </div>
             </div>
             <div class="metric-grid">
@@ -82,7 +82,7 @@
                 <strong data-counter="642">0</strong>
               </article>
               <article>
-                <span>Sample MRR</span>
+                <span>MRR</span>
                 <strong data-counter="18420" data-prefix="$">0</strong>
               </article>
               <article>
@@ -91,13 +91,13 @@
               </article>
             </div>
             <div class="progress-block">
-              <div class="progress-label"><span>Community Operations Readiness</span><strong>78%</strong></div>
+              <div class="progress-label"><span>Community Revenue Readiness</span><strong>78%</strong></div>
               <div class="progress-track"><span style="--value:78%"></span></div>
             </div>
             <div class="activity-list">
               <div><span></span> New contributor onboarding flow drafted</div>
-              <div><span></span> Community playbook updated</div>
-              <div><span></span> Grant-readiness notes drafted</div>
+              <div><span></span> Revenue playbook updated</div>
+              <div><span></span> Builder grant pipeline opened</div>
             </div>
           </div>
         </aside>
@@ -108,26 +108,26 @@
       <div class="container">
         <div class="section-heading reveal">
           <p class="eyebrow">Platform thesis</p>
-          <h2>A community layer for builders who care about execution, contribution, analytics, and responsible growth.</h2>
+          <h2>A community layer for builders who care about execution, revenue, and governance.</h2>
           <p>
-            This starter project gives Trihexar Community a public open-source identity: clear positioning, useful modules, transparent roadmap, and a contribution-friendly structure.
+            This starter project gives Trihexar a public open-source identity: clear positioning, useful modules, transparent roadmap, and contribution-friendly structure.
           </p>
         </div>
         <div class="feature-grid">
           <article class="feature-card reveal">
             <span class="icon">◇</span>
             <h3>Community Funnel</h3>
-            <p>Guide visitors into clear paths as members, contributors, operators, clients, or ecosystem partners using a simple public narrative.</p>
+            <p>Convert visitors into members, contributors, operators, clients, or ecosystem partners using a simple public narrative.</p>
           </article>
           <article class="feature-card reveal delay-1">
             <span class="icon">◈</span>
-            <h3>Revenue-Aware System</h3>
-            <p>Frame subscriptions, services, grants, sponsorships, and token-safe monetization paths without making speculative promises.</p>
+            <h3>Revenue System</h3>
+            <p>Frame subscriptions, services, grants, sponsorships, and token-adjacent monetization without making speculative promises.</p>
           </article>
           <article class="feature-card reveal delay-2">
             <span class="icon">⬡</span>
             <h3>Open Operations</h3>
-            <p>Show how the community ships: roadmap, contribution rules, quality standards, issue labels, and transparent operating principles.</p>
+            <p>Show how the community ships: roadmap, contribution rules, quality standards, issue labels, and governance principles.</p>
           </article>
         </div>
       </div>
@@ -137,41 +137,41 @@
       <div class="container split">
         <div class="section-heading align-left reveal">
           <p class="eyebrow">Core modules</p>
-          <h2>Designed as a modular community starter.</h2>
-          <p>Each module can later evolve into a real application feature, documentation section, workflow, or dashboard screen when the main Trihexar product needs it.</p>
+          <h2>Designed as a modular operating system.</h2>
+          <p>Each module can later become a real application feature, documentation section, smart contract workflow, or SaaS dashboard screen.</p>
         </div>
         <div class="module-list reveal delay-1">
           <button class="module-item is-active" data-module="growth">
             <span>01</span>
-            <strong>Growth Playbook</strong>
-            <small>Campaign ideas, onboarding, activation, referral loops.</small>
+            <strong>Growth Engine</strong>
+            <small>Campaigns, onboarding, activation, referral loops.</small>
           </button>
           <button class="module-item" data-module="revenue">
             <span>02</span>
-            <strong>Revenue Notes</strong>
-            <small>Pricing ideas, service revenue, sponsor pipeline, payout notes.</small>
+            <strong>Revenue Ledger</strong>
+            <small>MRR, service revenue, sponsor pipeline, payout notes.</small>
           </button>
           <button class="module-item" data-module="governance">
             <span>03</span>
-            <strong>Governance Notes</strong>
-            <small>Contribution rules, decision concepts, transparency principles.</small>
+            <strong>Governance Desk</strong>
+            <small>Contribution rules, voting concepts, treasury transparency.</small>
           </button>
           <button class="module-item" data-module="builders">
             <span>04</span>
-            <strong>Contributor Network</strong>
-            <small>Open tasks, templates, contribution history, contributor reputation.</small>
+            <strong>Builder Network</strong>
+            <small>Open tasks, bounties, templates, contributor reputation.</small>
           </button>
         </div>
       </div>
       <div class="container module-preview reveal">
         <div class="glass module-panel" data-module-panel>
           <p class="eyebrow">Selected module</p>
-          <h3>Growth Playbook</h3>
-          <p>Map every community entry point into a measurable path: visitor, subscriber, contributor, client, partner, or operator.</p>
+          <h3>Growth Engine</h3>
+          <p>Map every community entry point into a measurable path: visitor, subscriber, contributor, paid member, client, partner.</p>
           <ul>
-            <li>Landing page clarity blocks</li>
+            <li>Landing page conversion blocks</li>
             <li>Contributor onboarding checklist</li>
-            <li>Campaign learning metrics</li>
+            <li>Campaign performance metrics</li>
           </ul>
         </div>
       </div>
@@ -180,9 +180,9 @@
     <section class="section" id="calculator">
       <div class="container calculator-grid">
         <div class="section-heading align-left reveal">
-          <p class="eyebrow">Planning Lab</p>
-          <h2>Estimate community planning scenarios.</h2>
-          <p>This simple calculator is only for planning. It helps contributors understand how community size, conversion rate, pricing, and churn can affect a possible revenue scenario.</p>
+          <p class="eyebrow">Revenue Lab</p>
+          <h2>Estimate community revenue potential.</h2>
+          <p>This simple calculator is only for planning. It helps contributors understand the relationship between members, conversion rate, and pricing.</p>
         </div>
         <form class="calculator glass reveal delay-1" data-calculator>
           <label>
@@ -190,7 +190,7 @@
             <input type="number" min="0" step="100" value="10000" name="members" />
           </label>
           <label>
-            Estimated paid conversion rate (%)
+            Paid conversion rate (%)
             <input type="number" min="0" max="100" step="0.1" value="3" name="conversion" />
           </label>
           <label>
@@ -202,7 +202,7 @@
             <input type="number" min="0" max="100" step="0.1" value="5" name="churn" />
           </label>
           <div class="calculator-result">
-            <span>Scenario MRR</span>
+            <span>Estimated MRR</span>
             <strong data-mrr>$8,700</strong>
             <small data-paid>300 paid members · 5% churn assumption</small>
           </div>
@@ -214,7 +214,7 @@
       <div class="container">
         <div class="section-heading reveal">
           <p class="eyebrow">Roadmap</p>
-          <h2>From public identity to practical community infrastructure.</h2>
+          <h2>From public identity to operational community infrastructure.</h2>
         </div>
         <div class="timeline">
           <article class="timeline-item reveal">
@@ -225,17 +225,17 @@
           <article class="timeline-item reveal delay-1">
             <span>Phase 1</span>
             <h3>Community Activation</h3>
-            <p>Launch Discord or Telegram, collect early contributors, define service ideas, and document workflows.</p>
+            <p>Launch Discord or Telegram, collect early contributors, define paid service offers, and document workflows.</p>
           </article>
           <article class="timeline-item reveal delay-2">
             <span>Phase 2</span>
-            <h3>Operations Planning</h3>
-            <p>Ship dashboard concepts, sponsorship pages, partner pipeline notes, analytics, and onboarding materials.</p>
+            <h3>Revenue Operations</h3>
+            <p>Ship dashboards, sponsorship pages, partner pipeline, analytics, and client onboarding materials.</p>
           </article>
           <article class="timeline-item reveal delay-3">
             <span>Phase 3</span>
-            <h3>Future-Ready Layer</h3>
-            <p>Prepare governance notes, transparency reporting, grant mechanisms, and token-safe documentation boundaries.</p>
+            <h3>Protocol-Ready Layer</h3>
+            <p>Prepare governance, treasury reporting, grant mechanisms, and token-safe documentation boundaries.</p>
           </article>
         </div>
       </div>
@@ -246,7 +246,7 @@
         <div class="glass contribution-card reveal">
           <p class="eyebrow">Open source</p>
           <h2>Contribute to Trihexar Community.</h2>
-          <p>Designers, developers, writers, marketers, data analysts, and Web3 operators can help turn this starter into a practical open-source community system.</p>
+          <p>Designers, developers, writers, marketers, data analysts, and Web3 operators can help turn this starter into a real community revenue system.</p>
           <ul class="check-list">
             <li>Improve frontend components</li>
             <li>Write playbooks and documentation</li>
@@ -266,9 +266,9 @@
       <div class="container cta-card reveal">
         <img src="assets/TrihexarLogo.svg" alt="Trihexar logo" />
         <div>
-          <p class="eyebrow">Build the community layer</p>
-          <h2>Start with the public landing page. Expand into a practical community operating system.</h2>
-          <p>Use this repository as the first public face of Trihexar Community. Keep the scope practical: explain clearly, document well, measure what matters, and improve continuously.</p>
+          <p class="eyebrow">Build the revenue layer</p>
+          <h2>Start with the landing page. Expand into a full operating system.</h2>
+          <p>Use this repository as the first public face of Trihexar Community. Keep the scope practical: ship, document, measure, improve.</p>
         </div>
         <a class="btn" href="#top">Back to Top</a>
       </div>
@@ -282,7 +282,7 @@
           <img src="assets/TrihexarLogo.svg" alt="Trihexar logo" class="brand-logo" />
           <span class="brand-text"><strong>Trihexar</strong><small>Community</small></span>
         </a>
-        <p>Open-source Web3 Community Layer starter.</p>
+        <p>Open-source Web3 Community Revenue OS starter.</p>
       </div>
       <div>
         <strong>Project</strong>
@@ -299,7 +299,7 @@
     </div>
     <div class="container footer-bottom">
       <span>© <span data-year></span> Trihexar Community. Released under the MIT License.</span>
-      <span>Built for builders, operators, and contribution-focused communities.</span>
+      <span>Built for builders, operators, and revenue-focused communities.</span>
     </div>
   </footer>
 
